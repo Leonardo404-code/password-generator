@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "wgTelecom",
-    "slug": "wgTelecom",
+    "name": "Password Generator",
+    "slug": "Password Generator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
